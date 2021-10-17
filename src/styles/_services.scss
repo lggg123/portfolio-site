@@ -1,0 +1,22 @@
+.ServicesSection{
+    .service{
+        width: 95%;
+        @media screen and (max-width:1400px) {
+            width: 100%;
+            margin-bottom: 1rem;
+        }
+        &:hover{
+            border-top: 8px solid #f9b208;
+        }
+    }
+}
+
+.services-container{
+    display: flex; 
+    justify-content: space-between;
+    margin-top: 4rem;
+    @media screen and (max-width: 1400px){
+        flex-direction: column;
+        margin-bottom: 2rem;
+    }
+}

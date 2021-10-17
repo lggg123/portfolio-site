@@ -1,0 +1,15 @@
+
+<svg width="65px" height="55px" viewBox="0 0 65 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="design" transform="translate(2.047000, 1.552000)" stroke="#F9B208" stroke-width="2.5">
+            <polyline id="Path" stroke-linejoin="round" points="54.671 32.144 54.671 25.872 6.234 25.872 6.234 32.144"></polyline>
+            <line x1="30.453" y1="20.011" x2="30.453" y2="32.118" id="Path"></line>
+            <rect id="Rectangle" stroke-linejoin="round" x="24.281" y="0" width="12.344" height="12.346"></rect>
+            <g id="Group" transform="translate(0.000000, 39.551000)" stroke-linejoin="round">
+                <rect id="Rectangle" x="24.279" y="7.10542736e-15" width="12.348" height="12.346"></rect>
+                <rect id="Rectangle" x="3.55271368e-15" y="7.10542736e-15" width="12.346" height="12.346"></rect>
+                <rect id="Rectangle" x="48.559" y="7.10542736e-15" width="12.346" height="12.346"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -38,7 +38,7 @@ function ImageSection() {
         </div>
 
         <button className="btn">
-          <a href="/resume_2022.docx.pdf" download>
+          <a href="/2022_engineer_resume.docx" download>
             Download CV
           </a>
         </button>

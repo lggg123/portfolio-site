@@ -3,9 +3,10 @@ import port2 from '../img/portImages/gono2.png';
 import port3 from '../img/portImages/prolon.png';
 import port4 from '../img/portImages/tailopez.png';
 import port5 from '../img/portImages/equitysmith.png';
-import port8 from '../img/portImages/fedes.jpeg';
 import port6 from '../img/portImages/port5.jpg';
 import port7 from '../img/portImages/port6.jpg';
+import port8 from '../img/portImages/fedes.jpeg';
+import port9 from '../img/portImages/trendziehub.png';
 
 const portfolios = [
   // {
@@ -77,6 +78,18 @@ const portfolios = [
     title: 'FEDES / AJLA State of Kansas',
     description:
       'Built and fixed the job board and unemployment site for the state of Kansas. Utilized React for the front-end and Ruby on Rails for backend using sidekiq and redis for boackground jobs and a PostgresQL Database.',
+  },
+  {
+    id: 5,
+    category: 'e-commerce',
+    link1: 'www.trendziehub.com',
+    // link2: 'www.github.com',
+    icon1: 'WS',
+    // icon2: 'G',
+    image: port9,
+    title: 'TrendzieHub e-commerce site',
+    description:
+      'Built frontend and backend for e-commerce site trendziehub.com. Site features inventory, subscription, checkout, and order tracking functionality.',
   },
 ];
 

@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b501f32d.css",
-    "main.js": "/static/js/main.9a34b8f1.js",
+    "main.js": "/static/js/main.7fa7411a.js",
     "static/media/gono2.png": "/static/media/gono2.0fbfa77a95de635756f4.png",
     "static/media/prolon.png": "/static/media/prolon.539e10ab530a227be8ee.png",
     "static/media/tailopez.png": "/static/media/tailopez.1ae035c81023688a0bff.png",
-    "static/media/trendziehub.png": "/static/media/trendziehub.78efcf993962c49d5d67.png",
+    "static/media/trendziehub.png": "/static/media/trendziehub.753dba409e027cd97d23.png",
     "static/media/front-end.png": "/static/media/front-end.47cbd33d2a61e66ba2cc.png",
     "static/media/fedes.jpeg": "/static/media/fedes.133bb91ba4cda46c2f15.jpeg",
     "static/media/blog1.svg": "/static/media/blog1.64643e94533c05f2d842daa2622ce8b2.svg",
     "static/media/blog5.svg": "/static/media/blog5.2599a6b148b590c6ae22f160bfb1278e.svg",
     "static/media/about.jpeg": "/static/media/about.4d8a52fe0a2e14ec18c6.jpeg",
     "static/media/avatar.png": "/static/media/avatar.1939bad153dd1b5dbb8b.png",
-    "static/media/equitysmith.png": "/static/media/equitysmith.9d1e4877ddaee2cdecaf.png",
+    "static/media/equitysmith.png": "/static/media/equitysmith.5ba1d2a96d7683bb3f01.png",
     "static/media/blog4.svg": "/static/media/blog4.60aa6cecd146aaa676c8c080eb0f4fae.svg",
     "static/media/figma.png": "/static/media/figma.f85fea2cc413f3857a1f.png",
     "static/media/port6.jpg": "/static/media/port6.ccfe3b5b573464b76352.jpg",
@@ -36,10 +36,10 @@
     "static/media/tiktok.svg": "/static/media/tiktok.81f28e71f1672ec8cf35902f645dce6d.svg",
     "static/media/ui_ux.svg": "/static/media/ui_ux.b9cec8e9dcd3b3a02860acfa0b64fee9.svg",
     "main.b501f32d.css.map": "/static/css/main.b501f32d.css.map",
-    "main.9a34b8f1.js.map": "/static/js/main.9a34b8f1.js.map"
+    "main.7fa7411a.js.map": "/static/js/main.7fa7411a.js.map"
   },
   "entrypoints": [
     "static/css/main.b501f32d.css",
-    "static/js/main.9a34b8f1.js"
+    "static/js/main.7fa7411a.js"
   ]
 }
